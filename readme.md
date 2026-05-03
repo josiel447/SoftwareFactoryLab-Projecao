@@ -19,11 +19,12 @@
 | Membro | Papel |
 |--------|-------|
 | Tchezery | Tech Lead |
-| Guilherme | Desenvolvedor |
+| Guilherme | Tech Lead |
 | Nicole | Desenvolvedora |
 | Felipe | Desenvolvedor |
 | Ivan | Desenvolvedor |
 | Josiel | Desenvolvedor |
+| Thiago Xavier | Desenvolvedor |
 
 ### Squad 2
 
