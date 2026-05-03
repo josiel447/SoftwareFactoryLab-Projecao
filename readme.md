@@ -1,7 +1,7 @@
 A produzir 
 
 
-Levantamentos de Requisitos 
+Levantamentos de Requisitos ( baseado no Documento Inicial)
 
 Diagrama de sequência 
 
