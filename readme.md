@@ -1,34 +1,36 @@
-# ?? Software Factory Lab ? Projeção
+ï»¿# Software Factory Lab - Projecao
 
-## ?? A Produzir
+## A Produzir
 
 | # | Artefato | Status |
 |---|----------|--------|
-| 1 | Levantamento de Requisitos *(baseado no Documento Inicial)* | ? Pendente |
-| 2 | Diagrama de Sequência | ? Pendente |
-| 3 | Diagrama de Classes | ? Pendente |
+| 1 | Levantamento de Requisitos *(baseado no Documento Inicial)* | Pendente |
+| 2 | Diagrama de Sequencia | Pendente |
+| 3 | Diagrama de Classes | Pendente |
+| 4 | Diagrama de Caso de Uso | Pendente |
+| 5 | Realizacao de Caso de Uso | Pendente |
 
 ---
 
-## ?? Equipes
+## Equipes
 
-### ?? Squad 1
+### Squad 1
 
 | Membro | Papel |
 |--------|-------|
-| Tchezery | ?? Tech Lead |
+| Tchezery | Tech Lead |
 | Guilherme | Desenvolvedor |
 | Nicole | Desenvolvedora |
 | Felipe | Desenvolvedor |
 | Ivan | Desenvolvedor |
 | Josiel | Desenvolvedor |
 
-### ?? Squad 2
+### Squad 2
 
 | Membro | Papel |
 |--------|-------|
-| Lorrane | ?? Tech Lead |
-| Larissa | ?? Tech Lead |
+| Lorrane | Tech Lead |
+| Larissa | Tech Lead |
 | Marcos | Desenvolvedor |
 | Alef | Desenvolvedor |
 | Matheus | Desenvolvedor |
@@ -37,5 +39,4 @@
 
 ---
 
-> _Última atualização: Maio de 2026_
-
+> Ultima atualizacao: Maio de 2026
