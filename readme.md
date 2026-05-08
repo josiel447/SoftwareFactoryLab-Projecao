@@ -25,6 +25,7 @@
 | Ivan | Desenvolvedor |
 | Josiel | Desenvolvedor |
 | Thiago Xavier | Desenvolvedor |
+| Lazaro | Desenvolvedor |
 
 ### Squad 2
 
