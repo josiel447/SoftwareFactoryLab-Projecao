@@ -46,6 +46,7 @@
 | Joao Pedro | Developer |
 | Nayara | Developer |
 | Samuel | Developer |
+| Eduardo Cruz | Developer |
 
 ---
 
