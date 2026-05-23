@@ -33,7 +33,23 @@
 
 ---
 
-### Team 1 - IA e Banco de Dados
+### Team 1: Frontend Web/Mobile e Protótipo
+*Foco: UX/UI, prototipação e desenvolvimento das telas (Web/Mobile).*
+| Membro | Papel |
+|--------|-------|
+| Guilherme | Tech Lead | 
+| Arthur Sales | Tech Lead |
+| Lucas | Developer |
+| Thiago | Developer |
+| Alef | Developer |
+| Marcos W. | Developer |
+| Joao Pedro | Developer |
+| Nayara | Developer |
+| Watanuki | Developer |
+
+---
+
+### Team 2 - IA e Banco de Dados
 *Foco: Modelos de inteligência, engenharia de dados e infraestrutura para a IA.*
 | Membro | Papel |
 |--------|-------|
@@ -47,7 +63,7 @@
 
 ---
 
-### Team 2: Backend e Banco de Dados
+### Team 3: Backend e Banco de Dados
 *Foco: APIs, regras de negócio da aplicação e estrutura do banco principal.*
 | Membro | Papel |
 |--------|-------|
@@ -61,22 +77,6 @@
 | Caua | Developer |
 | Andre | Developer |
 | Nicolly | Developer | 
-
----
-
-### Team 3: Frontend Web/Mobile e Protótipo
-*Foco: UX/UI, prototipação e desenvolvimento das telas (Web/Mobile).*
-| Membro | Papel |
-|--------|-------|
-| Guilherme | Tech Lead | 
-| Arthur Sales | Tech Lead |
-| Lucas | Developer |
-| Thiago | Developer |
-| Alef | Developer |
-| Marcos W. | Developer |
-| Joao Pedro | Developer |
-| Nayara | Developer |
-| Watanuki | Developer |
 
 ---
 > Ultima atualizacao: 23 de Maio de 2026
