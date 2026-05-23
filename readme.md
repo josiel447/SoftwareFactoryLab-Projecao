@@ -45,7 +45,7 @@
 | Marcos W. | Developer |
 | Joao Pedro | Developer |
 | Nayara | Developer |
-| Watanuki | Developer |
+| Samuel | Developer |
 
 ---
 
