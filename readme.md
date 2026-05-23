@@ -4,11 +4,21 @@
 
 | # | Artefato | Status |
 |---|----------|--------|
-| 1 | Levantamento de Requisitos *(baseado no Documento Inicial)* | Pendente |
-| 2 | Diagrama de Sequencia | Pendente |
-| 3 | Diagrama de Classes | Pendente |
-| 4 | Diagrama de Caso de Uso | Pendente |
-| 5 | Realizacao de Caso de Uso | Pendente |
+| 1 | Atualização do banco de dados | Para Fazer |
+| 2 | Desenvolvimento Inicial do Protótipo | Em Andamento |
+| 3 | Estrutura Inicial do Frontend | Para Fazer |
+| 4 | Estrutura Inicial do Backend | Para Fazer |
+| 5 | Pesquisa Inicial para API de Gestão de Agentes de IA | Para Fazer |
+
+## Concluído
+
+| # | Artefato | Versao |
+|---|----------|--------|
+| 1 | Levantamento de Requisitos | v3 |
+| 2 | Diagrama de Sequência | v2 |
+| 3 | Diagrama de Classes | v1 |
+| 4 | Diagrama de Caso de Uso | v1 |
+| 5 | Backlog inicial definido | v1 |
 
 ---
 
