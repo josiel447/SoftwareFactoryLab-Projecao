@@ -48,6 +48,7 @@
 | Samuel | Developer |
 | Eduardo Cruz | Developer |
 | Mathues | Developer |
+| Felipe | Developer |
 
 ---
 
