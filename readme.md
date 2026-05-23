@@ -47,6 +47,7 @@
 | Nayara | Developer |
 | Samuel | Developer |
 | Eduardo Cruz | Developer |
+| Mathues | Developer |
 
 ---
 
